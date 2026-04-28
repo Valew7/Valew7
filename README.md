@@ -44,7 +44,7 @@ Most of my work lives in private repos, but what's public here is real.
 
 |  |  |
 |---|---|
-| <img src="https://avatars.githubusercontent.com/u/76263028?s=200&v=4" width="65"/><br>**Claude API** | <img src="https://cdn.prod.website-files.com/6605a2979ddb4272d66a5a55/660fbe6d994fea6e1eff03ab_Group%201000002682.svg" width="65"/><br>**Groq API** |
+| <img src="https://avatars.githubusercontent.com/u/76263028?s=200&v=4" width="65"/><br>**Claude API** |<img src="https://avatars.githubusercontent.com/u/108219672?s=200&v=4" width="65"/><br>**Groq API** |
 
 </div>
 
