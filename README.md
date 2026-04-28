@@ -71,47 +71,7 @@ Most of my work lives in private repos, but what's public here is real.
 
 ---
 
-<details open>
-<summary><b>Featured Projects</b></summary>
-<br>
 
-### DigiWeb Security
-
-Automated web security scanner that runs 7 tools in sequence — nmap, nikto, testssl, whatweb, sublist3r, curl, dig — analyzes results with AI and generates a professional PDF report with a security score.
-
-`Python` `Bash` `Groq API` `ReportLab` `AWS EC2` · *Source code private — sample report available*
-
-[View repository](https://github.com/Valew7/digiweb-security)
-
----
-
-### AWS FinOps — Cost Reduction Case Study
-
-Real cost audit on a production AWS account. Identified idle resources across EC2, RDS Aurora, QuickSight, EBS and Elastic IPs. Reduced projected monthly spend from **$369 to $17**.
-
-`AWS Cost Explorer` `EC2` `RDS` `S3` · *Full case study with screenshots*
-
-[View repository](https://github.com/Valew7/aws-finops-casestudy)
-
-</details>
-
----
-
-<details open>
-<summary><b>GitHub Analytics</b></summary>
-<br>
-
-<div align="center">
-
-![Valew7's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valew7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Valew7&theme=tokyonight&hide_border=true)
-
-</div>
-
-</details>
-
----
 
 <div align="center">
 
