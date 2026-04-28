@@ -54,7 +54,7 @@ Most of my work lives in private repos, but what's public here is real.
 | <img src="https://avatars.githubusercontent.com/u/76263028?s=200&v=4" width="65"/><br>**Claude API** |<img src="https://avatars.githubusercontent.com/u/108219672?s=200&v=4" width="65"/><br>**Groq API** |
 
 </div>
-
+<center>
 **What I work on**
 
 | Currently Building | Learning Next |
@@ -64,7 +64,7 @@ Most of my work lives in private repos, but what's public here is real.
 | FinOps and cloud cost control | Offensive security techniques |
 | Self-hosted infrastructure | QA Testing Automatization |
 
-
+</center>
 </div>
 
 </details>
