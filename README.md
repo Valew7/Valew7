@@ -29,7 +29,8 @@ Most of my work lives in private repos, but what's public here is real.
 
 <div align="center">
 
-
+|  |  |  |  |  |
+|---|---|---|---|---|
 | <img src="https://skillicons.dev/icons?i=aws" width="65"/><br>**AWS** | <img src="https://skillicons.dev/icons?i=python" width="65"/><br>**Python** | <img src="https://skillicons.dev/icons?i=bash" width="65"/><br>**Bash** | <img src="https://skillicons.dev/icons?i=linux" width="65"/><br>**Linux** | <img src="https://skillicons.dev/icons?i=cloudflare" width="65"/><br>**Cloudflare** |
 | <img src="https://skillicons.dev/icons?i=supabase" width="65"/><br>**Supabase** | <img src="https://skillicons.dev/icons?i=github" width="65"/><br>**GitHub** | <img src="https://skillicons.dev/icons?i=vscode" width="65"/><br>**VS Code** | <img src="https://skillicons.dev/icons?i=wordpress" width="65"/><br>**WordPress** | <img src="https://skillicons.dev/icons?i=framer" width="65"/><br>**Framer** |
 
