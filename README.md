@@ -58,19 +58,7 @@ Most of my projects live in private repos, but what you see here is real and run
 
 </div>
 
-**What I work on**
 
-| Currently Building | Learning Next |
-|---|---|
-| Security automation tools | Cloud certifications (AWS, Azure) |
-| AI agents for real workflows | Advanced networking |
-| FinOps and cloud cost control | Offensive security techniques |
-| Self-hosted infrastructure | QA Testing Automatization |
-
-
-</div>
-
-</details>
 
 ---
 <details open>
