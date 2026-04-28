@@ -70,9 +70,36 @@ Most of my work lives in private repos, but what's public here is real.
 </details>
 
 ---
+## GitHub Analytics
+### AWS FinOps — Cost Reduction Case Study
 
+Real cost audit on a production AWS account. Identified idle resources across EC2, RDS Aurora, QuickSight, EBS and Elastic IPs. Reduced projected monthly spend from **$369 to $17**.
 
+`AWS Cost Explorer` `EC2` `RDS` `S3` · *Full case study with screenshots*
 
+[View repository](https://github.com/Valew7/aws-finops-casestudy)
+
+</details>
+
+---
+
+<details open>
+<summary><b>GitHub Analytics</b></summary>
+<br>
+
+<div align="center">
+
+![Valew7's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valew7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Valew7&theme=tokyonight&hide_border=true)
+
+</div>
+
+</details>
+
+---
+
+> *"Building in silence, shipping in public."*
 <div align="center">
 
 *"Most of my work is private. But the systems are running."*
