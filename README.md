@@ -17,7 +17,7 @@
 <br>
 <div align="center">
 
-Student and self-taught — I learn every day and build while I learn.
+Student and self-taught. I learn every day and build while I learn.
 I'm obsessed with security, cloud, and automating everything that can be automated.
 Most of my projects live in private repos, but what you see here is real and runs in production.
 
