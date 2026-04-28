@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="1536" height="1024" alt="ChatGPT Image Apr 28, 2026, 06_00_39 PM" src="https://github.com/user-attachments/assets/c06bebad-603f-4403-ab1f-f5eabee89a70" />
+<img width="100%" height="150" alt="ChatGPT Image Apr 28, 2026, 06_00_39 PM" src="https://github.com/user-attachments/assets/c06bebad-603f-4403-ab1f-f5eabee89a70" />
 
 
 ---
