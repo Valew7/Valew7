@@ -15,12 +15,15 @@
 <details open>
 <summary><b>About Me</b></summary>
 <br>
+<div align="center">
 
-Security automation and cloud builder based in Colombia.  
-I design and build tools that run in production, scanners, AI agents, automated workflows.  
-Founder of two private SaaS products currently in development.  
-Most of my work lives in private repos, but what's public here is real.
+Student and self-taught — I learn every day and build while I learn.
+I'm obsessed with security, cloud, and automating everything that can be automated.
+Most of my projects live in private repos, but what you see here is real and runs in production.
 
+<sub>Documenting everything</sub>
+
+</div>
 </details>
 
 ---
