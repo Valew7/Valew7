@@ -70,6 +70,21 @@ Most of my work lives in private repos, but what's public here is real.
 </details>
 
 ---
+<details open>
+<summary><b>Featured Projects</b></summary>
+<br>
+
+### DigiWeb Security
+
+Automated web security scanner that runs 7 tools in sequence — nmap, nikto, testssl, whatweb, sublist3r, curl, dig — analyzes results with AI and generates a professional PDF report with a security score.
+
+`Python` `Bash` `Groq API` `ReportLab` `AWS EC2` · *Source code private — sample report available*
+
+[![My Skills](https://skillicons.dev/icons?i=aws,python,bash,linux,cloudflare,supabase,github)](https://skillicons.dev)
+[View repository](https://github.com/Valew7/digiweb-security)
+
+---
+
 ## GitHub Analytics
 ### AWS FinOps — Cost Reduction Case Study
 
