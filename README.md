@@ -80,7 +80,6 @@ Automated web security scanner that runs 7 tools in sequence — nmap, nikto, te
 
 `Python` `Bash` `Groq API` `ReportLab` `AWS EC2` · *Source code private — sample report available*
 
-[![My Skills](https://skillicons.dev/icons?i=aws,python,bash,linux,cloudflare,supabase,github)](https://skillicons.dev)
 [View repository](https://github.com/Valew7/digiweb-security)
 
 ---
