@@ -37,6 +37,8 @@ Most of my work lives in private repos, but what's public here is real.
 | <img src="https://skillicons.dev/icons?i=supabase" width="65"/><br>**Supabase** | <img src="https://skillicons.dev/icons?i=github" width="65"/><br>**GitHub** | <img src="https://skillicons.dev/icons?i=git" width="65"/><br>**Git** | <img src="https://skillicons.dev/icons?i=wordpress" width="65"/><br>**WordPress** | <img src="https://skillicons.dev/icons?i=vscode" width="65"/><br>**VS Code** |
 
 <br>
+<sub>Also working with: N8N  · Jira · Railway</sub>
+<br>
 
 <b>AI Tools — API Integration</b>
 
