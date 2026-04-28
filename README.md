@@ -40,7 +40,7 @@ Most of my work lives in private repos, but what's public here is real.
 <br>
 
 <br>
-<sub>Also working with: N8N  · Jira · Trello · MySQl · Postgresql </sub>
+| <img src="https://skillicons.dev/icons?i=notion" width="65"/><br>**Notion** | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/N8n-logo.png/240px-N8n-logo.png" width="65"/><br>**N8N** | <img src="https://skillicons.dev/icons?i=mysql" width="65"/><br>**MySQL** | <img src="https://skillicons.dev/icons?i=postgres" width="65"/><br>**PostgreSQL** | <img src="https://skillicons.dev/icons?i=docker" width="65"/><br>**Docker** |
 <br>
 
 ![body](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,15,16,17,18&height=3&section=header&reversal=false)
