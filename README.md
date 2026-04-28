@@ -40,7 +40,7 @@ Most of my work lives in private repos, but what's public here is real.
 <br>
 
 <br>
-<sub>Also working with: N8N  · Jira · Trello </sub>
+<sub>Also working with: N8N  · Jira · Trello · MySQl · Postgresql </sub>
 <br>
 
 ![body](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,15,16,17,18&height=3&section=header&reversal=false)
