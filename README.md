@@ -62,7 +62,7 @@ Most of my work lives in private repos, but what's public here is real.
 | Security automation tools | Cloud certifications (AWS, Azure) |
 | AI agents for real workflows | Advanced networking |
 | FinOps and cloud cost control | Offensive security techniques |
-| Self-hosted infrastructure | Automatization |
+| Self-hosted infrastructure | QA Testing Automatization |
 
 
 </div>
