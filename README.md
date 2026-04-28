@@ -1,11 +1,8 @@
 
+
 <div align="center">
 
-# Valentina
-
-### Building security tools, cloud infrastructure, and AI automation.
-### Learning every day, shipping what works.
-
+<img width="1000" height="200" alt="ChatGPT Image Apr 28, 2026, 05_54_35 PM (1)" src="https://github.com/user-attachments/assets/49c84b9d-3723-45c9-92bc-9733a9e16201" />
 ---
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,15,16,17,18&height=3&section=header&reversal=false)
