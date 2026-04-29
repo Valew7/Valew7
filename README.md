@@ -68,11 +68,11 @@ Automated web security scanner that runs 7 tools in sequence — nmap, nikto, te
 
 `Python` `Bash` `Groq API` `ReportLab` `AWS EC2` · *Source code private — sample report available*
 
-[View repository](https://github.com/Valew7/digiweb-security)
+[View repository](https://github.com/Valew7/ciberseguridad-portfolio)
 
 ---
 
-## GitHub Analytics
+
 ### AWS FinOps — Cost Reduction Case Study
 
 Real cost audit on a production AWS account. Identified idle resources across EC2, RDS Aurora, QuickSight, EBS and Elastic IPs. Reduced projected monthly spend from **$369 to $17**.
