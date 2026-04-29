@@ -85,21 +85,7 @@ Real cost audit on a production AWS account. Identified idle resources across EC
 
 ---
 
-<details open>
-<summary><b>GitHub Analytics</b></summary>
-<br>
 
-<div align="center">
-
-![Valew7's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valew7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Valew7&theme=tokyonight&hide_border=true)
-
-</div>
-
-</details>
-
----
 
 > *"Building in silence, shipping in public."*
 <div align="center">
