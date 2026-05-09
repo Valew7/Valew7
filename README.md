@@ -35,7 +35,7 @@ Most of my projects live in private repos, but what you see here is real and run
 |---|---|---|---|---|
 | <img src="https://skillicons.dev/icons?i=aws" width="65"/><br>**AWS** | <img src="https://skillicons.dev/icons?i=python" width="65"/><br>**Python** | <img src="https://skillicons.dev/icons?i=bash" width="65"/><br>**Bash** | <img src="https://skillicons.dev/icons?i=linux" width="65"/><br>**Linux** | <img src="https://skillicons.dev/icons?i=cloudflare" width="65"/><br>**Cloudflare** |
 | <img src="https://skillicons.dev/icons?i=supabase" width="65"/><br>**Supabase** | <img src="https://skillicons.dev/icons?i=github" width="65"/><br>**GitHub** | <img src="https://skillicons.dev/icons?i=git" width="65"/><br>**Git** | <img src="https://skillicons.dev/icons?i=wordpress" width="65"/><br>**WordPress** | <img src="https://skillicons.dev/icons?i=vscode" width="65"/><br>**VS Code** |
-| <img src="https://skillicons.dev/icons?i=notion" width="65"/><br>**Notion** | <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="65"/><br>**N8N** | <img src="https://skillicons.dev/icons?i=mysql" width="65"/><br>**MySQL** | <img src="https://skillicons.dev/icons?i=postgres" width="65"/><br>**PostgreSQL** | <img src="https://skillicons.dev/icons?i=docker" width="65"/><br>**Docker** |
+| <img src="https://skillicons.dev/icons?i=notion" width="65"/><br>**Notion** | <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="65"/><br>**N8N** |   
 <br>
 
 <br>
